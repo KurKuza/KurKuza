@@ -6,7 +6,6 @@
 
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
->  General
 <table width='100%'>
   <tr>
     <td align="center" width="96">
@@ -39,30 +38,8 @@
       </a>
       <br>Npm
     </td>
-  </tr> 
-</table>
-
->  Code quality
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-  </tr> 
-</table>
-
->  Frontend
-<table width='100%'>
-  <tr>
+  </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#amangeldi-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
@@ -104,6 +81,20 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+  </tr> 
+    <tr>
+     <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
     </td>
   </tr> 
 </table>
