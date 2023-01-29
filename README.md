@@ -109,12 +109,7 @@
 </table>
 
 ## :comet: Contact
-<a href="#amangeldi-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangeldi0&show_icons=true&locale=en&layout=compact&theme=react" alt="amangeldi0" />
-</a>
-
-- :comet: &nbsp;**[Github](https://github.com/amangeldi0)**
-- :airplane: &nbsp;**[Telegram](https://t.me/amangeldi0)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/amangeld_i0/)**
+- :airplane: &nbsp;**[Telegram](https://t.me/KurKulio)**
+- 🧑🏼‍💻 &nbsp;**[Linkedin](https://www.linkedin.com/in/kurkulio)**
 
 <br>
