@@ -98,9 +98,4 @@
     </td>
   </tr> 
 </table>
-
-## :comet: Contact
-- :airplane: &nbsp;**[Telegram](https://t.me/KurKulio)**
-- 🧑🏼‍💻 &nbsp;**[Linkedin](https://www.linkedin.com/in/kurkulio)**
-
 <br>
