@@ -1,16 +1,12 @@
 ## 📈 GitHub Stats
 
-[![KurKuza GitHub stats](https://github-readme-stats.vercel.app/api?username=kurkuza&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurkuza&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
-
-
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 <table width='100%'>
   <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/3840px-Unofficial_JavaScript_logo_2.svg.png" />
       </a>
       <br>JavaScript
     </td>
