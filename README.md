@@ -6,7 +6,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/3840px-Unofficial_JavaScript_logo_2.svg.png" />
+        <img width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/3840px-Unofficial_JavaScript_logo_2.svg.png" />
       </a>
       <br>JavaScript
     </td>
