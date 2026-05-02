@@ -1,18 +1,3 @@
-Вот более аккуратный вариант для README:
-
-```html
-<h2 id="debabin-stack" align="left">Tech Stack</h2>
-
-<p align="left">
-  <a href="#debabin-stack">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,tailwind,vite,figma,git,npm,eslint,prettier&perline=7" alt="Tech stack: JavaScript, TypeScript, React, Redux, HTML, CSS, Sass, Tailwind, Vite, Figma, Git, npm, ESLint, Prettier" />
-  </a>
-</p>
-```
-
-Если хочется с подписями под каждой технологией, красивее оставить таблицу, но привести ее к одному стилю:
-
-```html
 <h2 id="debabin-stack" align="left">Tech Stack</h2>
 
 <table>
@@ -77,4 +62,3 @@
     </td>
   </tr>
 </table>
-```
