@@ -1,95 +1,80 @@
-<h2 align="left" id="debabin-stack">Tech stack</h2>
+Вот более аккуратный вариант для README:
 
-<table width='100%'>
+```html
+<h2 id="debabin-stack" align="left">Tech Stack</h2>
+
+<p align="left">
+  <a href="#debabin-stack">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,tailwind,vite,figma,git,npm,eslint,prettier&perline=7" alt="Tech stack: JavaScript, TypeScript, React, Redux, HTML, CSS, Sass, Tailwind, Vite, Figma, Git, npm, ESLint, Prettier" />
+  </a>
+</p>
+```
+
+Если хочется с подписями под каждой технологией, красивее оставить таблицу, но привести ее к одному стилю:
+
+```html
+<h2 id="debabin-stack" align="left">Tech Stack</h2>
+
+<table>
   <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img width="48px" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/3840px-Unofficial_JavaScript_logo_2.svg.png" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
-      </a>
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-  </tr>
-    <tr>
     <td align="center" width="96">
-      <a href="#amangeldi-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#amangeldi-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-     <td align="center" width="96"> 
-      <a href="#amangeldi-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+      <br>npm
     </td>
     <td align="center" width="96">
-      <a href="#amangeldi-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96"> 
-      <a href="#amangeldi-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
-    <td align="center" width="96">
-      <a href="#amangeldi-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="96">
-      <a href="#amangeldi-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
-    <tr>
-     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
+      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" />
+      <br>ESLint
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=prettier" width="48" height="48" alt="Prettier" />
       <br>Prettier
     </td>
-  </tr> 
+  </tr>
 </table>
-<br>
+```
