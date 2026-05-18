@@ -52,13 +52,5 @@
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>npm
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eslint" width="48" height="48" alt="ESLint" />
-      <br>ESLint
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prettier" width="48" height="48" alt="Prettier" />
-      <br>Prettier
-    </td>
   </tr>
 </table>
